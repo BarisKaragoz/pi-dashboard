@@ -25,3 +25,4 @@ Copy paste the following config:
 @unclutter -idle 0
 @chromium-browser --noerrdialogs --disable-infobars --kiosk https://url.com
 ```
+6. Reboot
