@@ -12,9 +12,8 @@ sudo raspi-config
 ```
 sudo apt install unclutter
 ```
-5. Create the LXDE autostart file:
+5. Create the LXDE autostart file (create the folders first if it doesnt exist:
 ```
-~/.config/lxsession/LXDE-pi
 vi ~/.config/lxsession/LXDE-pi/autostart
 ```
 Copy paste the following config:
