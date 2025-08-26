@@ -24,3 +24,9 @@ Copy paste the following config:
 @chromium-browser --noerrdialogs --disable-infobars --kiosk https://url.com
 ```
 6. Reboot
+
+7. When everything is fine activate VNC:
+```
+sudo raspi-config
+```
+8. Go to Interface Options and choose VNC. After activation you can login with the same user as you login to the Raspberry Pi.
