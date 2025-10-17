@@ -21,7 +21,7 @@ Copy paste the following config:
 @xset s off
 @xset -dpms
 @xset s noblank
-@chromium-browser --noerrdialogs --disable-infobars --kiosk https://url.com
+@chromium-browser --password-store=basic --noerrdialogs --disable-infobars --kiosk https://url.com
 ```
 6. Reboot
 
