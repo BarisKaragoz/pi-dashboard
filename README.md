@@ -1,3 +1,5 @@
+Warning: This is tested for Raspbian 12 (Bookworm)
+
 # pi-dashboard
 
 Follow the following steps to make your Raspberry Pi (Raspbian Bookworm) start automatically the Chromium browser in kioskmode with predefined URL.
